@@ -1,5 +1,4 @@
-# Angulajs-Slider-App
-Slider Built using Angulajs
-Web2Dezine.com<br>
-Get https://angularjs.org/ to day and start creating!
-
+# Angulajs-Slider-App<br>
+Slider Built using Angulajs<br>
+Get <a href=">https://angularjs.org/" target="_blank">Angulajs</a> to day and start creating!<br>
+Web2Dezine.com
